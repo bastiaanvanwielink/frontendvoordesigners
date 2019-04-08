@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  background-color: beige;
 }
 
 body {
@@ -8,7 +9,7 @@ body {
   margin: 1em;
 }
 
-span {
+#loader {
   color: green;
   margin: 0;
   padding: 1em;
@@ -16,11 +17,11 @@ span {
   list-style-position: inside;
   background: DARKSEAGREEN;
   transition: all 1s ease;
-  display: none;
+/*  display: none;*/
 }
 
 .show {
-  display: inline;
+  display: block;
 }
 
 .hide {
