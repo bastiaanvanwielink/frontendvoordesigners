@@ -77,8 +77,8 @@ button {
     margin-bottom: 3rem;
 }
 
-.locaties img:active {
-    border: 2px solid darkorange;
+.locaties img:hover {
+    
 }
 
 main {
@@ -101,7 +101,15 @@ section p {
 }
 
 article {
+    width: 25rem;
+    height: 20rem;
+    margin-bottom: 5rem;
+    margin-right: 5rem;
+    transition: 1s;
+}
 
+article p {
+    margin-left: 1rem;
 }
 
 #loader {
