@@ -1,16 +1,10 @@
 # frontend voor designers
 
-In het vak Frontend voor Designers leer je hoe je met HTML en CSS, en een beetje Javascript, snel en eenvoudig prototypes kan maken om je ontwerp ideeën te testen in een browser. We gaan animeren, responsive layouts uitproberen en interactie coderen ...
+Tijdens FVD heb ik 2 AVV's uit gewerkt, en een eindopdracht gemaakt. Voor AVV1 heb ik de case studentenhuizen uitgewerkt. In deze opdracht kun je de details van een studentenhuis bekijken met een uitschuifknop.
 
-Dit is de [online url](https://koopreynders.github.io/frontendvoordesigners/) met de opdrachten om te kunnen bekijken en testen in een browser.
+Bij opdracht 2 heb ik gekozen voor de Carousel. Dit is een carousel met vakantiefoto's waar je op 2 manieren doorheen kunt klikken.
 
-Het vak bestaat uit 3 opdrachten:
+Bij opdracht 3 heb ik een ontwerp gemaakt voor een website waar je voor verschillende bioscopen een lijst met draaiende films kunt bekijken. Ook heb ik de carousel uit AVV2 hier terug in verwerkt waarmee de gebruiker toekomstige films kunt zien.
 
-1. [Opdracht 1](opdracht1/)
-2. [Opdracht 2](opdracht2/)
-3. [Opdracht 3](opdracht3/)
+Dit is de [online url](https://koopreynders.github.io/frontendvoordesigners/bastiaanvanwielink) met de opdrachten om te kunnen bekijken en testen in een browser.
 
-
----
-- [Markup cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [Getting started with GitHub Pages](https://guides.github.com/features/pages/)
