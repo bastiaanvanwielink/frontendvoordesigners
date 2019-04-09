@@ -58,6 +58,27 @@ h1 {
 
 button {
     margin-left: 46%;
+    background-color: darkorange;
+    border: 1px solid darkorange;
+    color: white;
+    font-size: 1em;
+    padding: 1rem;
+}
+
+.locaties {
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr 3fr;
+    border-bottom: 
+}
+
+.locaties img {
+    width: 25rem;
+    height: 20rem;
+    margin-bottom: 3rem;
+}
+
+.locaties img:active {
+    border: 2px solid darkorange;
 }
 
 main {
@@ -77,6 +98,10 @@ section img {
 
 section p {
     width: 20rem;
+}
+
+article {
+
 }
 
 #loader {

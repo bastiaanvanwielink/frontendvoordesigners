@@ -79,3 +79,7 @@ button.onclick = function () {
     //section.innerHTML = "";
     laadNu();
 };
+
+function mark(el) {
+    el.style.backgroundColor = "darkorange";
+}
