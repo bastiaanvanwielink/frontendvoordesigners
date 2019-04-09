@@ -11,7 +11,7 @@ Versie 2:
 
 [Zie tweede versie](https://bastiaanvanwielink.github.io/frontendvoordesigners/opdracht2/Carousel V2/)
 
-Versie 3:
+Versie 3: 
 
 
 [Zie derde versie](https://bastiaanvanwielink.github.io/frontendvoordesigners/opdracht2/Carousel V3/)
