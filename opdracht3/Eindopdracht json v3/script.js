@@ -46,22 +46,23 @@ function showMovies(moviejson) {
 
         var filmTitle = document.createElement('h2');
         filmTitle.textContent = movies[i].title;
+        
+        // Cover
+
+        var filmCover = document.createElement('img');
+        filmCover.src = movies[i].cover;
 
         // Plot
 
         var filmPlot = document.createElement('p');
         filmPlot.textContent = movies[i].plot;
 
-        // Cover
-
-        var filmCover = document.createElement('img');
-        filmCover.src = movies[i].cover;
 
         // Data Koppelen
 
         mySection.appendChild(filmTitle);
-        mySection.appendChild(filmPlot);
         mySection.appendChild(filmCover);
+        mySection.appendChild(filmPlot);
 
         //koppelen van de section aan de main
         //main bestaat al in de html en wordt gedeclareerd
