@@ -12,5 +12,3 @@ Bij opdracht 3 heb ik een ontwerp gemaakt voor een website waar je voor verschil
 
 Live demo:  [online url](https://bastiaanvanwielink.github.io/frontendvoordesigners/opdracht3/eind)
 
-Dit is de [online url](https://bastiaanvanwielink.github.io/frontendvoordesigners) met de opdrachten om te kunnen bekijken en testen in een browser.
-
