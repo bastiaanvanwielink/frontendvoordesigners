@@ -6,5 +6,5 @@ Bij opdracht 2 heb ik gekozen voor de Carousel. Dit is een carousel met vakantie
 
 Bij opdracht 3 heb ik een ontwerp gemaakt voor een website waar je voor verschillende bioscopen een lijst met draaiende films kunt bekijken. Ook heb ik de carousel uit AVV2 hier terug in verwerkt waarmee de gebruiker toekomstige films kunt zien.
 
-Dit is de [online url](https://koopreynders.github.io/frontendvoordesigners/bastiaanvanwielink) met de opdrachten om te kunnen bekijken en testen in een browser.
+Dit is de [online url](https://bastiaanvanwielink.github.io/frontendvoordesigners) met de opdrachten om te kunnen bekijken en testen in een browser.
 
